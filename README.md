@@ -23,11 +23,5 @@ It fetches real-time weather data using the **OpenWeather API** and shows detail
 
 ---
 
-## ⚡ Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Videeksha22/my-weather-project.git
-   cd my-weather-project
-
 ## 🌍 Live Demo
 👉 [Weather App Live](https://Videeksha22.github.io/my-weather-project/)
