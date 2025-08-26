@@ -10,15 +10,16 @@ body{
 }
 
 .card{
-    width: 85%;
-    max-width: 380px;
+    width: 90%;
+    max-width: 470px;
     background: linear-gradient(135deg, #3eaaf7, #5b548a);        
     color: #fff;
-    margin: 80px auto 0;
+    margin: 100px auto 0;
     border-radius: 20px;
-    padding: 25px 20px;
+    padding: 40px 35px;
     text-align: center;
 }
+    
 .search{
     width: 100%;
     display: flex;
