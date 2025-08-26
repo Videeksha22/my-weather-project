@@ -20,3 +20,11 @@ It fetches real-time weather data using the **OpenWeather API** and shows detail
 - **CSS3**
 - **JavaScript (ES6)**
 - **OpenWeather API**
+
+---
+
+## ⚡ Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Videeksha22/my-weather-project.git
+   cd my-weather-project
