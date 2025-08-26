@@ -4,18 +4,19 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 
-}
 body{
-    background: #222;
+    background: url("weather-app-img/images/weather_image.jpg") no-repeat center center fixed;
+    background-size: cover;
 }
+
 .card{
-    width: 90%;
-    max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);        
+    width: 85%;
+    max-width: 380px;
+    background: linear-gradient(135deg, #3eaaf7, #5b548a);        
     color: #fff;
-    margin: 100px auto 0;
+    margin: 80px auto 0;
     border-radius: 20px;
-    padding: 40px 35px;
+    padding: 25px 20px;
     text-align: center;
 }
 .search{
